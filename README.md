@@ -28,7 +28,7 @@ React e Tailwind CSS
 
         1. Clone o repositorio 
                 
-                git clone https://github.com/gesser0102/Loeffa_Reservas.git
+                git clone https://github.com/gesser0102/FullStack-Reserva-App.git
                 
 
         2. Instale as dependencias do Frontend 
